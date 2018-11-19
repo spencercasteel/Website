@@ -361,12 +361,12 @@ a:hover, a:focus, a:active {
 
 .btn-primary {
   background-color: #9C9C9C !important;
-  border-color: #9C9C9C !important;
-  color: black !important;
+  border-color: black !important;
+  color: #23244F !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: black !important;
+  background-color: grey !important;
   border-color: black !important;
 }
 
