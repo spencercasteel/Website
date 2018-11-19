@@ -362,7 +362,7 @@ a:hover, a:focus, a:active {
 .btn-primary {
   background-color: #9C9C9C !important;
   border-color: #9C9C9C !important;
-  color: beige !important;
+  color: black !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
